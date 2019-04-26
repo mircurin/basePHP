@@ -1,0 +1,17 @@
+*.xml
+*.png
+*.jpg
+*.tif
+*.png
+*.psd
+idea/
+*.iml
+*.ttf
+packegesImport/
+*.css.map
+*.scss
+*.svg
+*.txt
+fontsStyle.css
+style.css
+node_modules/
